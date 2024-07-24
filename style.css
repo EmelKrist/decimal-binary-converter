@@ -39,29 +39,29 @@ h2 {
 }
 
 label {
-   display: block;
-   margin-bottom: 0.5em;
-   font-weight: 500;
-   color: #002924;
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: 500;
+  color: #002924;
 }
 
 input {
-   position: relative;
-   font-size: 1.1em;
-   width: 100%;
-   padding: 0.5em;
-   border-radius: 5px;
-   border: 1.5px solid #002924;
-   color: #002924;
-   outline: none;
+  position: relative;
+  font-size: 1.1em;
+  width: 100%;
+  padding: 0.5em;
+  border-radius: 5px;
+  border: 1.5px solid #002924;
+  color: #002924;
+  outline: none;
 }
 
 input:focus {
-   border-color: #54A89E;
+  border-color: #54a89e;
 }
 
 #error-msg {
-   text-align: center;
-   margin-top: 1.25em;
-   color: #ff002b;
+  text-align: center;
+  margin-top: 1.25em;
+  color: #ff002b;
 }
